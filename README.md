@@ -1,2 +1,2 @@
 # Lambert-W-in-Excel
-Excel add-in file (.xlam) for calculating Lambert W function
+Microsoft Excel add-in file (.xlam) for calculating Lambert W function. Once installed, funtion name is 'LAMBERTW()'.
